@@ -208,7 +208,8 @@ Agentic Workflows
 Business Process Automation
 
 Screenshot. 
-<img width="1593" height="821" alt="image" src="https://github.com/user-attachments/assets/85edeb7f-c8f9-44ef-ae1f-ae979fddbdb5" />
+<img width="1600" height="816" alt="image" src="https://github.com/user-attachments/assets/e45d51cd-a5d0-4d73-a82e-c87f96a5cdba" />
+
 workflow overview.
 
 
